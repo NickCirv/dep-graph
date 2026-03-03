@@ -1,0 +1,27 @@
+{
+  "name": "dep-graph",
+  "version": "1.0.0",
+  "description": "Visualize your project's import dependency graph. Find circular deps and orphaned files.",
+  "type": "module",
+  "bin": {
+    "dep-graph": "./index.js",
+    "dg": "./index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "developer-tools",
+    "cli",
+    "nodejs",
+    "zero-dependencies",
+    "dependencies",
+    "graph",
+    "imports"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NickCirv/dep-graph"
+  }
+}
