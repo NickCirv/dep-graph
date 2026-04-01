@@ -1,3 +1,5 @@
+![Banner](banner.svg)
+
 # dep-graph
 > Visualize your project's import dependency graph. Find circular deps and orphaned files.
 
